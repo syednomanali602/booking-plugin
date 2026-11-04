@@ -1,0 +1,6 @@
+.ccb-admin .ccb-logo-preview { margin-bottom: 10px; }
+.ccb-admin .ccb-logo-preview img { display: block; max-width: 220px; max-height: 80px; height: auto; padding: 8px; background: #fff; border: 1px solid #dcdcde; border-radius: 4px; }
+.ccb-admin .ccb-timezone-select { min-width: 320px; }
+.ccb-admin .form-table th { width: 260px; }
+.ccb-admin h2.title { margin-top: 28px; padding-top: 6px; border-top: 1px solid #dcdcde; }
+.ccb-admin .nav-tab-wrapper + h2.title, .ccb-admin form > h2.title:first-of-type { border-top: 0; margin-top: 18px; }
